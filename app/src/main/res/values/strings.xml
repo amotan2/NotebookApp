@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="viewFragmentTitle">View Note</string>
+    <string name="editFragmentTitle">Edit Note</string>
+
+    <!-- Main List long Click Context Menu Strings-->
+    <string name="edit_menu">Edit</string>
+    <string name="save_note_button">Save Note</string>
+
+</resources>
